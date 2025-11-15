@@ -6,7 +6,7 @@
 1.4) Como onSaveInstanceState() ajuda a salvar um texto digitado mesmo após a rotação, de um exemplo de uso
 
 
-R: O que é: Activity é uma classe da plataforma Android que desempenha a função de criar uma tela e serve como ponto de entrada para execução da aplicação ou de funções dela. As Activitys podem interagir entre si, solicitando e passando informações.
+O que é: Activity é uma classe da plataforma Android que desempenha a função de criar uma tela e serve como ponto de entrada para execução da aplicação ou de funções dela. As Activitys podem interagir entre si, solicitando e passando informações.
 
 Respostas:
 O ciclo de vida de uma Activity existe para gerenciar os vários estados que a tela do aplicativo passa, desde a sua criação até o momento de destruição, permitindo que o sistema e o desenvolvedor saibam quando inicializar recursos, quando liberar memória e quando salvar dados temporários.
